@@ -15,10 +15,10 @@ layout: page
 <h3>Summary</h3>
 
 In 2016, DLF Metadata Assessment Working Group surveyed and analyzed:
-   - general data tools,
-   - cultural heritage institution metadata-specific tools,
-   - programming languages/libraries that support metadata-specific activities, and
-   - datasets and dataset aggregators.
+- - -- general data tools,
+- - -- cultural heritage institution metadata-specific tools,
+- - -- programming languages/libraries that support metadata-specific activities, and
+- - -- datasets and dataset aggregators.
 
 This environmental scan captured information about the use, status, and application of 20 tools. In 2017, the initial list of tools gathered as part of the environmental scan was reviewed with an eye to developing resources for tool testing.
 
@@ -55,25 +55,25 @@ The documentation presents general information about each tool, such as its purp
 
 <h3>List of Tools &amp; Sample Datasets to be Assessed</h3>
 
-   - Anaconda distribution of Python
-   - Apache Spark
-   - Completeness Rating in Europeana
-   - D3
-   - Digital Public Library of America: Bulk Metadata Download Feb 2015
-   - Google Analytics
-   - Hadoop
-   - Internet Archive Dataset Collection
-   - LODrefine
-   - Mark Phillips' Metadata Breakers
-   - North Carolina Digital Heritage Center DPLA Aggregation tools
-   - OpenRefine
-   - Plot.ly
-   - Python pandas
-   - R
-   - R Studio
-   - SPSS
-   - Tableau
-   - UNT Libraries Metadata Edit Dataset
+- - -- Anaconda distribution of Python
+- - -- Apache Spark
+- - -- Completeness Rating in Europeana
+- - -- D3
+- - -- Digital Public Library of America: Bulk Metadata Download Feb 2015
+- - -- Google Analytics
+- - -- Hadoop
+- - -- Internet Archive Dataset Collection
+- - -- LODrefine
+- - -- Mark Phillips' Metadata Breakers
+- - -- North Carolina Digital Heritage Center DPLA Aggregation tools
+- - -- OpenRefine
+- - -- Plot.ly
+- - -- Python pandas
+- - -- R
+- - -- R Studio
+- - -- SPSS
+- - -- Tableau
+- - -- UNT Libraries Metadata Edit Dataset
 
 <h3>Tools Overview Visualization</h3>
 
