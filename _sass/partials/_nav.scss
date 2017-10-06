@@ -58,7 +58,9 @@
                 line-height: 1;
                 border-bottom: 1px solid rgba($blue, .2);
                 &:before {
+
 /* Commenting out header numbering                    content: counters(nested-counter, ".") " "; */
+                    //content: counters(nested-counter, ".") " ";
                     font-size: 0;
                 }
                 &:hover {
